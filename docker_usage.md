@@ -10,7 +10,7 @@
     
 2. Create image with your “image_name”
 
-`**docker build** --tag "image_name" .`
+`docker build --tag "image_name" .`
 
 3. Remove all containers:
 
